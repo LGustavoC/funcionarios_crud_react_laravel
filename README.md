@@ -10,5 +10,6 @@ in Terminal: php artisan serve
 path: http://localhost:8000/ 
 
 As aplicações conversão utlizando requisições HTTP.
+Disponibilizei algumas imagens na pasta screenshots, do sistema funcionando localmente.
 
 Obs: Aplicação não terminada, podem ser melhoradas algumas funcionalidades, como Select dinâmico com dados da base e listagem de cargo utilizando nomes, etc.
