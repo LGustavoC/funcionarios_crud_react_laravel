@@ -4,8 +4,7 @@
 Para executar o projeto deve-se ter instalado o Node e Laravel e digitar os seguintes comandos.
 React JS:
 Terminal: npm start
-path: http://localhost:3000/students
-
+path: http://localhost:3000/
 Laravel: 
 in Terminal: php artisan serve
 path: http://localhost:8000/ 
